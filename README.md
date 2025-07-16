@@ -41,7 +41,7 @@ Menilai efektivitas **enam metode imputasi** dalam mengembalikan nilai yang hila
 
 ## 📌 Insight & Rekomendasi
 
-- Gunakan **mean/median** untuk dataset kecil dan bersih.
+- Gunakan **mean/median** untuk dataset kecil dan tidak terlalu banyak amatan hilang.
 - Pilih **KNN atau Fuzzy** untuk data kompleks dan berkorelasi.
 - Gunakan **RL** jika presisi tinggi dibutuhkan dan tersedia sumber daya komputasi.
 - Hindari Isolation Forest jika data memiliki distribusi multimodal.
